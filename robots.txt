@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://regeqasu.github.io/sitemap/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/KPX/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/FTI/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/uSx/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/yoh/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/GNh/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/TaP/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/TlA/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/nHT/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/vkQ/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/rjm/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/sad/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/EbI/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/PsJ/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/yrW/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/Xcv/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/Vfl/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/qwv/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/YAc/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/TsD/sitemap_index.regeqasu
+Sitemap: https://regeqasu.github.io/qHw/sitemap_index.regeqasu
